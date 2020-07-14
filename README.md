@@ -1,0 +1,2 @@
+# khmerdic
+khmer dic
